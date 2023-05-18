@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".DonateActivity">
+
+    <TextView
+        android:id="@+id/Txtdonate"
+        android:layout_width="371dp"
+        android:layout_height="157dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="566dp"
+        android:text="@string/you_can_donate_clothes_to_the_less_fortunate_through_our_app_through_it_you_will_be_directed_to_the_nearest_dropoff_location_for_the_items_you_wish_to_donate_the_donated_items_will_be_taken_to_the_childrens_home_and_evidence_of_the_childrens_home_visit_will_be_displayed_here"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="TextSizeCheck" />
+
+    <ImageView
+        android:id="@+id/imageView21"
+        android:layout_width="390dp"
+        android:layout_height="325dp"
+        android:layout_marginStart="13dp"
+        android:layout_marginTop="317dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="65dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/comingg"
+        tools:ignore="ContentDescription,ImageContrastCheck" />
+
+    <TextView
+        android:id="@+id/Txtparticipate"
+        android:layout_width="376dp"
+        android:layout_height="83dp"
+        android:layout_marginStart="17dp"
+        android:layout_marginTop="160dp"
+        android:layout_marginEnd="18dp"
+        android:layout_marginBottom="488dp"
+        android:text="@string/if_you_are_willing_to_be_a_part_of_the_childrens_home_visit_you_can_fill_in_the_form_at_the_dropoff_stations_and_you_will_be_added_to_the_group_where_information_concerning_the_visits_are_provided"
+        android:textColor="#DD2C00"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="TextSizeCheck" />
+
+    <TextView
+        android:id="@+id/Txtdiff"
+        android:layout_width="356dp"
+        android:layout_height="62dp"
+        android:layout_marginStart="18dp"
+        android:layout_marginTop="254dp"
+        android:layout_marginEnd="37dp"
+        android:layout_marginBottom="415dp"
+        android:text="@string/let_us_make_a_difference_in_our_society_together"
+        android:textColor="#512DA8"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="TextSizeCheck" />
+
+    <TextView
+        android:id="@+id/Txtinfo"
+        android:layout_width="385dp"
+        android:layout_height="52dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="680dp"
+        android:layout_marginEnd="13dp"
+        android:layout_marginBottom="24dp"
+        android:text="@string/for_more_information_kindly_contact_shekijojo05_gmail_com"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

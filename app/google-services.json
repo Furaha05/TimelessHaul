@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "438873000548",
+    "project_id": "cs-haven",
+    "storage_bucket": "cs-haven.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438873000548:android:0f813782fd227b8ed32d71",
+        "android_client_info": {
+          "package_name": "com.example.cshaven"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438873000548-ima0q5i9on4l5bkivtgj81tmmjqcpb9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3KaDRmUUZJl9Prbt133DbZ6DLvDfGUPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438873000548-ima0q5i9on4l5bkivtgj81tmmjqcpb9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438873000548:android:ea5a406c42b620d1d32d71",
+        "android_client_info": {
+          "package_name": "com.example.timeless_haul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438873000548-ima0q5i9on4l5bkivtgj81tmmjqcpb9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3KaDRmUUZJl9Prbt133DbZ6DLvDfGUPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438873000548-ima0q5i9on4l5bkivtgj81tmmjqcpb9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

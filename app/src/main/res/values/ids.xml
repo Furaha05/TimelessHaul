@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imgHelp" type="id" />
+    <item name="imgDonate" type="id" />
+    <item name="imghome" type="id" />
+    <item name="img_cart" type="id" />
+    <item name="btnmen" type="id" />
+    <item name="btnchildren" type="id" />
+    <item name="btnwomen" type="id" />
+    <item name="btnNewArrivals" type="id" />
+    <item name="btnshoes" type="id" />
+    <item name="btnOnsale" type="id" />
+    <item name="imageView10" type="id" />
+    <item name="imgsettings" type="id" />
+    <item name="imgFeedback" type="id" />
+    <item name="Txtchildren" type="id" />
+    <item name="Txtnew" type="id" />
+    <item name="TxtOnsale" type="id" />
+</resources>
